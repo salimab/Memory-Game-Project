@@ -5,7 +5,7 @@ This is a simple game built to test a users memory. There's a deck of cards with
 
 ### How to play
 
-* Open . 
+* Open https://salimab.github.io/Memory-Game-Project/. 
 
 ### How The Game Works
 
@@ -37,9 +37,9 @@ Match cards in less time with less moves.
 
 ### External libraries Used
 
-*https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
-*https://fonts.googleapis.com/css?family=Coda
-*https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
+* https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+* https://fonts.googleapis.com/css?family=Coda
+* https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
 
 ### css Used
 * css/app.css
